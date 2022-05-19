@@ -1,0 +1,33 @@
+/* Reset CSS*/
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/*
+1.ví trí
+2. kích thước (chiều rộng và cao)
+3. màu sắc
+4. kiểu dnasg ( kiểu chữ, hình tròn, vuông
+*/
+
+#rapper{
+
+}
+
+#header{
+    height: 46px;
+    background-color: black;
+}
+
+#slider{
+
+}
+
+#content{
+
+}
+
+#footer{
+
+}
